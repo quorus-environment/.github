@@ -6,7 +6,7 @@
 - [Елена Сысоева](https://github.com/lenaa1)
 - [Данил Грибанов](https://github.com/Gribanov-Danil)
 - [Дмитрий Овечкин](https://github.com/OvechkinDmitry)
-- [Егор Кобелев(https://github.com/EgorKobelev)
+- [Егор Кобелев](https://github.com/EgorKobelev)
 
 Наши проекты:
 - ML-utility по распознаванию компьютерной периферии
