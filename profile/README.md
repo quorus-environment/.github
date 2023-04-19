@@ -6,6 +6,8 @@
 - [Елена Сысоева](https://github.com/lenaa1)
 - [Данил Грибанов](https://github.com/Gribanov-Danil)
 - [Дмитрий Овечкин](https://github.com/OvechkinDmitry)
+- [Алексей Дудалин](https://github.com/alexdydalin)
+- [Иван Книженцев](https://github.com/IKnigencev)
 - [Егор Кобелев](https://github.com/EgorKobelev)
 
 Наши проекты:
